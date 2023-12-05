@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: builder
   become: true
 
   vars:
